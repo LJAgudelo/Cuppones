@@ -1,0 +1,23 @@
+.bg-cuppon{
+    background-color: #28a745;
+}
+
+.text-cuppon{
+    font-family: 'Roboto', sans-serif;
+}
+.text-cupponverde{
+    font-family: 'Roboto', sans-serif;
+    color: #28a745;
+    font-weight: bold;
+}
+.btncolor{
+    background: white;
+    color: black;
+}
+.imghead{
+    width: 8rem;
+}
+.imgfooter{
+width: 6rem;
+
+}
